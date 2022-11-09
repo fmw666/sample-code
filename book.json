@@ -1,0 +1,67 @@
+{
+    "root": "./docs",
+    "title": "代码示例仓库",
+    "description": "sample code warehouse",
+    "author": "fmw666",
+    "language": "zh-hans",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links" : {
+        "sidebar" : {
+            "Home" : "#"
+        }
+    },
+
+    "plugins": [
+        "-search",
+        "-lunr",
+        "-livereload",
+        "code",
+        "codeblock-filename",
+        "search-plus",
+        "chart",
+        "graph",
+        "github",
+        "katex",
+        "ace",
+        "sitemap-general",
+        "mermaid-gb3",
+        "flexible-alerts",
+        "chapter-fold",
+        "anchor-navigation-ex"
+    ],
+
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/fmw666"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "showGoTop": true
+        },
+        "chart": {
+            "type": "c3"
+        },
+        "sitemap-general": {
+            "prefix": "https://github.com/fmw666"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "twitter": false,
+            "weibo": false
+        },
+        "code": {
+            "copyButtons": true
+        }
+    },
+
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
