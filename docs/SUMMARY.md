@@ -37,6 +37,7 @@
         * [viper](articles/go/module/config_file/viper.md)
 * [业务](articles/go/business/README.md)
     * [优雅退出](articles/go/business/graceful_stop.md)
+    * [闰年判断](articles/go/business/leap-year-judgment.md)
 * [工具](articles/go/tool/README.md)
     * [consul](articles/go/tool/consul/README.md)
         * [服务注册](articles/go/tool/consul/service_register.md)
