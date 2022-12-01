@@ -17,6 +17,7 @@
         * [django](articles/python/framework/web/django.md)
 * [业务](articles/python/business/README.md)
     * [优雅退出](articles/python/business/graceful_stop.md)
+    * [闰年判断](articles/python/business/leap-year-judgment.md)
 * [工具](articles/python/tool/README.md)
     * [consul](articles/python/tool/consul/README.md)
         * [服务注册](articles/python/tool/consul/service_register.md)
