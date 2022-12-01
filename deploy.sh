@@ -10,7 +10,7 @@ fi
 mkdir $TEMP_DIR
 
 # 通过 gitbook 命令进行编译
-gitbook install
+# gitbook install
 gitbook build
 
 # 提交主分支代码
