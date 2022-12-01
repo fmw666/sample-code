@@ -10,7 +10,7 @@
 
 1. 使用编辑器在 docs 目录下编写 gitbook 相关内容。
 
-1. 使用 shell 运行 deploy.sh 脚本。
+1. 使用 shell 运行 deploy.sh 脚本：`.\deploy.sh`。
 
 1. 在 github 该仓库下，进入 Settings > Pages > Build and deployment > Branch，选择 gh-pages 分支，/(root) 路径，并保存。
 
