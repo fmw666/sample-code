@@ -32,6 +32,7 @@
 <url> <loc>https://github.com/articles/go/module/config_file/viper.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/articles/go/business/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/articles/go/business/graceful_stop.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/articles/go/business/leap-year-judgment.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/articles/go/tool/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/articles/go/tool/consul/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/articles/go/tool/consul/service_register.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
